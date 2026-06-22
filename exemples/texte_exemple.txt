@@ -1,0 +1,25 @@
+GitHub a été lancé le 10 avril 2008. Le nom GitHub est composé du mot « git » faisant référence à un système de contrôle de version open-source et le mot « hub » faisant référence au réseau social bâti autour du système Git, mais aussi à une plate-forme de correspondance qui est appelée en anglais un « hub ».
+
+Octocat est la mascotte de la marque. Il a été dessiné par Simon Oxley[4] (également créateur du logo de Twitter) dans un style épuré inspiré par les arts populaires japonais (manga). On voit une partie de son visage dans un déguisement lui donnant des oreilles de chat et des tentacules de céphalopode[5].
+
+Dans un discours au siège de Yahoo! le 24 février 2009, les membres de l'équipe GitHub ont annoncé que durant la première année, le site avait accumulé 46 000 dépôts publics, dont 17 000 dans le seul mois précédent. À cette époque, environ 6 200 dépôts avaient été « forkés » au moins une fois et 4 600 fusionnés.
+
+Le 5 juillet 2009, le blog de GitHub a annoncé le dépassement de la barre des 100 000 utilisateurs inscrits sur le site. Dans un autre discours avec Yahoo! le 27 juillet 2009, Tom Preston-Werner a annoncé que le nombre était passé à 90 000 dépôts publics uniques, 12 000 ayant été « forkés » au moins une fois, pour un total de 135 000 dépôts. En juillet 2010, GitHub a annoncé qu'il accueille un million de dépôts. En avril 2011, GitHub a annoncé qu'il accueille deux millions de dépôts.
+
+Le 21 septembre 2011, GitHub a annoncé qu'il avait atteint plus d'un million d'utilisateurs[6].
+
+Le 13 septembre 2012, sur sa page d'accueil, GitHub a annoncé qu'il avait plus de 2,1 millions d'utilisateurs et plus de 3,7 millions de dépôts.
+
+Le 19 décembre 2012, GitHub a annoncé qu'il avait plus de 2,8 millions d'utilisateurs et plus de 4,6 millions de dépôts.
+
+En juin 2015, GitHub ouvre un bureau au Japon[7]. En avril 2016, GitHub a annoncé avoir dépassé les quatorze millions d'utilisateurs et plus de 35 millions de dépôts de projets le plaçant comme le plus grand hébergeur de code source au monde.
+
+Le 4 juin 2018, GitHub annonce son acquisition par Microsoft pour 7,5 milliards de dollars. Cela inquiète de nombreux développeurs. Parmi ses concurrents, le site de forge, GitLab voit 50 000 nouveaux projets apparaître sur sa plateforme dans la journée via l'outil de migration depuis GitHub[8]. Le mercredi 6 juin, 100 000 projets avaient migré sur les 75 millions de projets que comporte GitHub[9]. D'autres se sont tournés vers Bitbucket[10]. SourceForge.net, une des plus anciennes forges publiques voit aussi un important pic d'imports et comme les précédents proposent un outil spécialisé pour l'import depuis GitHub[11]. Enfin, d'autres se sont probablement portés vers des solutions d'auto-hébergement libres de leurs dépôts[12].
+
+En 2019, est mis en place une restriction d'échanges des États-Unis d'Amérique (anglais : U.S. trade restrictions), dont l'Iran, la Syrie, la Crimée, et potentiellement d'autres pays (Github mentionne Cuba et la Corée du Nord) sont concernés. Github bloque alors fin juillet l'accès à ses services à ces pays. Ainsi les utilisateurs depuis ces pays se voient également bloquer l'accès à leurs dépôts privés, à la place de marché GitHub, ainsi qu'à la maintenance des comptes des organisations privées rémunérées[13].
+
+Le 25 janvier 2023, GitHub publie un article de blog[14] pour annoncer avoir dépassé la barre des 100 millions d'utilisateurs.
+
+En février 2024, le cofondateur de GitHub Chris Wanstrath (en) est exclu temporairement de la plateforme[15],[16].
+
+En mai 2026 GitHub est l'objet d'une cyberattaque par le groupe de hackers TeamPCP par l'intermédiaire d'une extension corrompue dans Visual Studio Code[17].
