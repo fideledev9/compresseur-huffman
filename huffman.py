@@ -33,7 +33,43 @@ def construire_arbre(frequences):
 
     return liste[0]
 
+code_actuel = ""
+codes = {}
+
+def generer_codes(noeud, code_actuel, codes):
+    if noeud is None:
+        # on s'arrête
+        return
+    if noeud.caractere is not None:
+        # c'est une feuille, on sauvegarde le code
+        codes[noeud.caractere] = code_actuel
+    else:
+        # ce n'est pas une feuille, on continue à gauche et à droite
+        generer_codes(noeud.gauche, code_actuel + "0", codes)
+        generer_codes(noeud.droite, code_actuel + "1", codes)
+
+def compresser(texte, codes):
+    chaine_bits = ""
+    for caractere in texte:
+        chaine_bits += str(codes[caractere])
+    #Ajoutez le padding pour avoir un multiple de 8
+    padding = 8 - len(chaine_bits) % 8
+    chaine_bits += "0" * padding
+
+    #Conversion en octets
+    octets = bytearray()
+    for i in range(0, len(chaine_bits), 8):
+        octet = chaine_bits[i:i + 8] 
+        octets.append(int(octet, 2))
+    return octets, padding
+
+
 # ZONE DE TEST
-frequences = compter_frequence("abracadabra")
+texte = "abracadabra"
+frequences = compter_frequence(texte)
 racine = construire_arbre(frequences)
-print(racine.frequence)
+codes = {}
+generer_codes(racine, "", codes)
+octets, padding = compresser(texte, codes)
+print(octets)
+print("padding:", padding)
